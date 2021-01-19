@@ -12,7 +12,7 @@
         <th><h2>Datos Personales</h2></th>
       </tr>
       <tr>
-        <td>img src=C:\student\GITHUB\CURRICULUM\foto.jpg</td>
+        <td>img src="C:\student\GITHUB\CURRICULUM\foto.jpg"</td>
         <td>
             <ol>
             <li>Nombre:Narciso Boullosa Túñez</li>
